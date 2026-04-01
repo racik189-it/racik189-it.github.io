@@ -109,6 +109,7 @@
 <meta name="google-site-verification" content="bKPSAY8-9R5dv4QDyoQ3R1Y0Ey3heB-xhBag1hSKsJE" />
 <meta name="google-site-verification" content="nIWmA6XYDWlAFMIzAC_Rzy3ZDlBAak6J7jF_srsadGI" />
 <meta name="google-site-verification" content="ilQd4cN6F2Wl3f3oHm7EGAHTcM6mOXBMhhYWHSUPYdY" />
+<meta name="google-site-verification" content="Rgzr815tCN_503sqiRetXfwQf1sa--Rr0u3yzO2wrKA" />
 
 
 <link rel="canonical" href="https://racik189-it.github.io/" />
