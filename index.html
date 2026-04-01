@@ -9,13 +9,13 @@
     "content_site": "https://racik189-it.github.io/",
     "content_site_id": 88,
     "content_category": "Prov",
-    "content_subcategory": "KAS138",
+    "content_subcategory": "RACIK189",
     "content_location": "Di",
     "content_author": "",
     "content_aid1": "",
     "content_aid2": "",
     "content_aid3": "",
-    "content_editor": "KAS138",
+    "content_editor": "RACIK189",
     "content_eid": "7768",
     "content_lipsus": "",
     "content_lipsus_id": "",
@@ -26,7 +26,7 @@
     "content_Year_PubDate": "2026",
     "content_Date_PubDate": "05",
     "content_source": "",
-    "content_tag": "KAS138",
+    "content_tag": "RACIK189",
     "content_title": "RACIK189 : Game Discovery! Temukan Game Baru yang Seru Dimainkan",
     "content_tags": "",
     "content_total_words": 366,
@@ -52,7 +52,7 @@
 <link rel="amphtml" href="https://racik189-it.pages.dev/" /> 
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
-<meta name="author" content="KAS138">
+<meta name="author" content="RACIK189">
 <meta name="robots" content="index, follow" />
 <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <meta name="language" content="id" />
@@ -79,13 +79,13 @@
 <meta name="twitter:image" content="https://s13.gifyu.com/images/bmGlM.webp" />
 <!-- E:tweeter card -->
 
-<meta name="content_category" content="KAS138" />
-<meta name="content_subcategory" content="KAS138" />
+<meta name="content_category" content="RACIK189" />
+<meta name="content_subcategory" content="RACIK189" />
 <meta name="content_location" content="Di" />
 <meta name="content_author_id" content="" />
 <meta name="content_author" content="" />
 <meta name="content_editor_id" content="7768" />
-<meta name="content_editor" content="KAS138" />
+<meta name="content_editor" content="RACIK189" />
 <meta name="content_lipsus" content="" />
 <meta name="content_lipsus_id" content="" />
 <meta name="content_sensi" content="" />
@@ -93,7 +93,7 @@
 <meta name="content_PublishedDate" content="2026-03-05 12:16:00" />
 <meta property="article:published_time" content="2026-03-05T12:16:45+00:00" />
 <meta name="content_source" content="" />
-<meta name="content_tag" content="KAS138" />
+<meta name="content_tag" content="RACIK189" />
 <meta name="content_tags" content="" />
 <meta name="content_total_words" content="452" />
 <meta name="subscription" content="False" />
@@ -339,7 +339,7 @@ var rl_adx_val = '';
  "dateModified": "2026-03-05T12:16:45+00:00",
  "author": {
   "@type": "Person",
-  "name": "KAS138",
+  "name": "RACIK189",
   "url": "https://indeks.kompas.com/profile/"
  },
  "publisher": {
@@ -437,7 +437,7 @@ var rl_adx_val = '';
     letter-spacing: 1.5px;
     text-transform: uppercase;
     
-    /* --- Palet Warna KAS138 --- */
+    /* --- Palet Warna RACIK189 --- */
     color: #FFFFFF; /* Teks putih untuk kontras maksimal */
     background: #cfc760; /* Latar biru tua yang solid dan dalam */
     border-radius: 10px; /* Border radius sedikit lebih bulat untuk tampilan modern */
@@ -608,7 +608,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
       .logo img {width:auto;}
       .logo {width:auto;}
     </style>
-    <img src="https://s13.gifyu.com/images/bm4GD.png" alt="KAS138 Logo">
+    <img src="https://s13.gifyu.com/images/bm4GD.png" alt="RACIK189 Logo">
   </a>
 </div>
 
@@ -621,7 +621,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                 id="fcSearch">
                                 <div class="searchBox-wrap">
                                     <input type="text" name="q" class="header-search-input" value=""
-                                        placeholder="Cari KAS138" autocomplete="off"
+                                        placeholder="Cari RACIK189" autocomplete="off"
                                         list="populer" id="cSearch">
                                     <input class="header-search-button" type="submit" name="">
                                     <span class="icon-svg icon-search"></span>
@@ -678,7 +678,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 
                                         <!-- play icon -->
                     <div class="menu-item menu-plus">
-	                    <a href="https://racik189-it.pages.dev/" class="button-default active" role="link" id="menu-plus" aria-label="KAS138">
+	                    <a href="https://racik189-it.pages.dev/" class="button-default active" role="link" id="menu-plus" aria-label="RACIK189">
 	                        <span class="icon-svg icon-plus" aria-hidden="true">
 	                            <img src="https://asset.kompas.com/data/2025/03/05/1535/icon-kplus.gif" alt="Icon Kompascom+">
 	                        </span>
@@ -707,7 +707,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                             </a>
                                         </li> -->
                         
-                                                                                    <li><a href="https://racik189-it.pages.dev/"><span><i class="sso__icon__subscription"></i> Join Bersama KAS138<i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://racik189-it.pages.dev/"><span><i class="sso__icon__subscription"></i> Join Bersama RACIK189<i class="sso__badge__inline"></i></span></a></li>
                                                                                 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -1518,7 +1518,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     </li>
 </ul>
 
-<a href="https://racik189-it.pages.dev/" rel="nofollow"class="menu-plus-sticky">Membership KAS138</a>
+<a href="https://racik189-it.pages.dev/" rel="nofollow"class="menu-plus-sticky">Membership RACIK189</a>
 
 <!-- css sublink nav -->
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -1909,7 +1909,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- read header-->
         <div class="read__header col-offset-fluid clearfix">
             <div class="col-bs10-10">
-                <div class="read__time"><a href="https://racik189-it.github.io/">KAS138</a></div>
+                <div class="read__time"><a href="https://racik189-it.github.io/">RACIK189</a></div>
             </div>
               
             <div class="col-bs10-10">            </div>
@@ -2095,28 +2095,28 @@ margin-top:10px;
   <h2 class="faq-title">FAQ RACIK189 : Game Discovery! Temukan Game Baru yang Seru Dimainkan</h2>
 
   <div class="faq-item">
-    <button class="faq-question">Apa itu KAS138?</button>
+    <button class="faq-question">Apa itu RACIK189?</button>
     <div class="faq-answer">
       <p>
-        <b>KAS138</b> adalah platform **togel online terpercaya** yang menyediakan berbagai permainan **toto resmi online** dari provider resmi. Situs ini menawarkan pengalaman bermain aman, nyaman, dan peluang **Maxwin tinggi** bagi semua pemain di tahun 2026.
+        <b>RACIK189</b> adalah platform **togel online terpercaya** yang menyediakan berbagai permainan **toto resmi online** dari provider resmi. Situs ini menawarkan pengalaman bermain aman, nyaman, dan peluang **Maxwin tinggi** bagi semua pemain di tahun 2026.
       </p>
     </div>
   </div>
 
   <div class="faq-item">
-    <button class="faq-question">Bagaimana cara login di KAS138?</button>
+    <button class="faq-question">Bagaimana cara login di RACIK189?</button>
     <div class="faq-answer">
       <p>
-        Pemain dapat login melalui **link resmi KAS138** yang tersedia. Proses login mudah, cepat, dan dapat diakses lewat desktop maupun perangkat mobile, sehingga pemain bisa langsung menikmati game togel online gacor kapan saja.
+        Pemain dapat login melalui **link resmi RACIK189** yang tersedia. Proses login mudah, cepat, dan dapat diakses lewat desktop maupun perangkat mobile, sehingga pemain bisa langsung menikmati game togel online gacor kapan saja.
       </p>
     </div>
   </div>
 
   <div class="faq-item">
-    <button class="faq-question">Apakah semua game di KAS138 toto resmi online?</button>
+    <button class="faq-question">Apakah semua game di RACIK189 toto resmi online?</button>
     <div class="faq-answer">
       <p>
-        Ya, semua permainan di <b>KAS138</b> adalah **toto resmi online** dengan peluang menang tinggi. Situs ini menyediakan berbagai game populer dengan fitur bonus menarik dan potensi **Maxwin** yang besar.
+        Ya, semua permainan di <b>RACIK189</b> adalah **toto resmi online** dengan peluang menang tinggi. Situs ini menyediakan berbagai game populer dengan fitur bonus menarik dan potensi **Maxwin** yang besar.
       </p>
     </div>
   </div>
@@ -2125,16 +2125,16 @@ margin-top:10px;
     <button class="faq-question">Apakah transaksi deposit dan withdraw aman?</button>
     <div class="faq-answer">
       <p>
-        Semua transaksi deposit dan withdraw diproses cepat, aman, dan transparan. Pemain dapat menggunakan metode **Dana** atau dompet digital lain untuk kemudahan dan keamanan transaksi di **KAS138**.
+        Semua transaksi deposit dan withdraw diproses cepat, aman, dan transparan. Pemain dapat menggunakan metode **Dana** atau dompet digital lain untuk kemudahan dan keamanan transaksi di **RACIK189**.
       </p>
     </div>
   </div>
 
   <div class="faq-item">
-    <button class="faq-question">Mengapa pemain memilih KAS138?</button>
+    <button class="faq-question">Mengapa pemain memilih RACIK189?</button>
     <div class="faq-answer">
       <p>
-        <b>KAS138</b> menawarkan akses mudah lewat **link alternatif resmi**, modal deposit fleksibel, permainan toto resmi online, peluang **Maxwin tinggi**, sistem stabil, dan layanan pelanggan responsif. Hal ini membuatnya menjadi pilihan utama bagi penggemar togel online di tahun 2026.
+        <b>RACIK189</b> menawarkan akses mudah lewat **link alternatif resmi**, modal deposit fleksibel, permainan toto resmi online, peluang **Maxwin tinggi**, sistem stabil, dan layanan pelanggan responsif. Hal ini membuatnya menjadi pilihan utama bagi penggemar togel online di tahun 2026.
       </p>
     </div>
   </div>
@@ -2269,7 +2269,7 @@ btn.classList.toggle("active")
 
                 <div class="footerNewsletter">
                     <div class="footerNewsletter-title">
-                        Raih kemenagan dan jackpot besar melalui situs togel online di KAS138</div>
+                        Raih kemenagan dan jackpot besar melalui situs togel online di RACIK189</div>
 
                     <div class="footerNewsletter-cta">
                         <a href="https://racik189-it.pages.dev/"class="footerNewsletter-link" rel="nofollow">
@@ -2381,7 +2381,7 @@ btn.classList.toggle("active")
                 </ul>
             </div>
             <div class="footerCopyright">
-                <p>Copyright 2026 KAS138 OFFICIAL. All Rights Reserved.</p>
+                <p>Copyright 2026 RACIK189 OFFICIAL. All Rights Reserved.</p>
             </div>
         </div>
     </div>
@@ -3253,7 +3253,7 @@ if (onSubmitNps !== null) {
                     <div class="kgmModal-img">
                         <img src="https://s14.gifyu.com/images/bwU2m.png" alt="Kompas.com" />
                     </div>
-<p><strong>AYO GABUNG DI KAS138 SEKARANG!</strong> SITUS TARUHAN JUDI KAS138 APK KAS138 WEB MAXWIN SIANG HARI INI !</p>
+<p><strong>AYO GABUNG DI RACIK189 SEKARANG!</strong> SITUS TARUHAN JUDI RACIK189 APK RACIK189 WEB MAXWIN SIANG HARI INI !</p>
                 </div>
                 <div class="kgmModal-footer">
                     <div class="form-row-big">
